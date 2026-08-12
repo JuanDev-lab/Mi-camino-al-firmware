@@ -14,7 +14,7 @@ Este proyecto demuestra cómo conmutar una carga inductiva de mayor corriente (u
 
 ### 2. Esquema Eléctrico
 
-![Esquema de conexiones del driver](./01-driver-bafle-2n2222/schematics/bafle_driver.svg)
+![Esquema de conexiones del driver](./01-driver-bafle-2n2222/schematics/Prototipo1.svg)
 
 ### 3. Código Fuente (C)
 
