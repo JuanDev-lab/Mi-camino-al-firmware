@@ -16,7 +16,7 @@ Este proyecto demuestra cómo conmutar una carga inductiva de mayor corriente (u
 
 ![Esquema de conexiones del driver](./01-driver-bafle-2n2222/schematics/bafle_driver.svg)
 
-### 3. Código Fuente (C/C++ Bare-Metal)
+### 3. Código Fuente (C)
 
 ```c
 const int pinAudio = 9;
